@@ -13,9 +13,29 @@ titles:
 key: page-team
 ---
 
-- [Filipe Braida](/pages/team/filipe_braida)
-- [Leandro Alvim](/pages/team/leandro_alvim)
+## Doutores
 
-When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$ and they are
-$$x_1 = {-b + \sqrt{b^2-4ac} \over 2a}$$
-$$x_2 = {-b - \sqrt{b^2-4ac} \over 2a} \notag$$
+<div class="grid-container">
+  <div class="grid grid--p-3">
+    <div class="cell cell--3">
+      <div class="card">
+        <div class="card__image">
+          <img class="image" src="/assets/images/profile/filipe_braida.jpg"/>
+          <div class="overlay overlay--bottom">
+            <a href="/pages/team/filipe_braida"><p>Filipe Braida</p></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="cell cell--3">
+      <div class="card">
+        <div class="card__image">
+          <img class="image" src="/assets/images/profile/leandro_alvim.jpg"/>
+          <div class="overlay overlay--bottom">
+            <a href="/pages/team/leandro_alvim"><p>Leandro Alvim</p></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
