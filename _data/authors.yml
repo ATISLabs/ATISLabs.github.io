@@ -1,0 +1,19 @@
+filipe_braida:
+  name      : Filipe Braida
+  url       : http://filipe.braida.com.br
+  avatar    : assets/images/profile/filipe_braida.jpg
+  bio       : Professor at UFRRJ. Coffee lover. Scientific programmer.
+  email     : filipebraida@gmail.com
+  facebook  : filipebraida
+  twitter   : filipebraida
+  linkedin  : filipebraida
+  github    : filipebraida
+
+leandro_alvim:
+  name      : Leandro Alvim
+  url       : pages/team/leandro_alvim
+  avatar    : assets/images/profile/leandro_alvim.jpg
+  bio       : Ph.D. Professor at Computer Science Department at UFRRJ. Machine learning and Data Scientist expertise.
+  email     : alvim.lgm@gmail.com
+  github    : lalvim
+
