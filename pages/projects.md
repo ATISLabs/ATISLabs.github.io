@@ -2,16 +2,19 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Research
+  en      : &EN       Projects
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  pt      : &PT       Pesquisa
+  pt      : &PT       Projetos
   pt-BR   : *PT
   # @end locale config
 show_title: false
 key: page-research
 ---
 
-Em breve.
+## Projects
+
+- XRayCovid 19
+- JuliaRecsys

@@ -10,6 +10,7 @@ titles:
   pt      : &PT       Publicações
   pt-BR   : *PT
   # @end locale config
+show_title: false
 key: page-research
 ---
 
