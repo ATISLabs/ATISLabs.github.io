@@ -18,7 +18,6 @@ This laboratory aims to promote and lead scientific advances in the field of Art
 
 Our main research areas are:
 - Machine Learning
-- Recommendation Systems
-- HPC
+- Recommender Systems
+- High Performance Computing
 - Natural Language Processing
-- Reinforcement Learning
