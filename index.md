@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Laboratório de Pesquisa ATISLabs
+title: Advanced Technology Laboratory in Intelligent Systems
 mode: immersive
 header:
   theme: dark
