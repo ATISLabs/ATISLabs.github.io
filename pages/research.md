@@ -7,12 +7,10 @@ key: page-research
 
 ## Research
 
-As linhas de pesquisa do laboratório seguem a área de Inteligência Artificial com uma trabalhos voltados para a aplicação. Entre ela, a preferência é para aplicações nas quais possuam um impacto dentro da sociedade, mostrando assim que o conhecimento acumulado, pode e deve ser utilizado para o bem estar das pessoas.
-
-As principais áreas de pesquisa são:
-- Machine Learning
-- Recommendation Systems
-- HPC
+Our main research areas are:
+- Data Science and Pattern Recognition
+- Recommender Systems
+- High Performance Computing
 - Natural Language Processing
 - Reinforcement Learning
 
