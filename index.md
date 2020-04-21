@@ -26,7 +26,7 @@ Este laboratório tem como objetivo promover e liderar avanços científicos no 
     </div> -->
     <div class="item__content">
       <header>
-        <a href="/page/machine_learning.html">
+        <a href="/pages/research.html">
           <h3 itemprop="headline" class="item__header">
             Machine Learning
           </h3>
@@ -37,7 +37,7 @@ Este laboratório tem como objetivo promover e liderar avanços científicos no 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </div>
         <p>
-          <a href="/page/machine_learning.html">
+          <a href="/pages/research.html">
             Read more
           </a>
         </p>
@@ -50,7 +50,7 @@ Este laboratório tem como objetivo promover e liderar avanços científicos no 
     </div> -->
     <div class="item__content">
       <header>
-        <a href="/page/machine_learning.html">
+        <a href="/pages/research.html">
           <h3 itemprop="headline" class="item__header">
             Reinforcement Learning
           </h3>
@@ -61,7 +61,7 @@ Este laboratório tem como objetivo promover e liderar avanços científicos no 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </div>
         <p>
-          <a href="/page/reiforcement_learning.html">
+          <a href="/pages/research.html">
             Read more
           </a>
         </p>
@@ -74,7 +74,7 @@ Este laboratório tem como objetivo promover e liderar avanços científicos no 
     </div> -->
     <div class="item__content">
       <header>
-        <a href="/page/machine_learning.html">
+        <a href="/pages/research.html">
           <h3 itemprop="headline" class="item__header">
             Recommender Systems
           </h3>
@@ -85,7 +85,7 @@ Este laboratório tem como objetivo promover e liderar avanços científicos no 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </div>
         <p>
-          <a href="/page/recommender_systems.html">
+          <a href="/pages/research.html">
             Read more
           </a>
         </p>
@@ -98,7 +98,7 @@ Este laboratório tem como objetivo promover e liderar avanços científicos no 
     </div> -->
     <div class="item__content">
       <header>
-        <a href="/page/machine_learning.html">
+        <a href="/pages/research.html">
           <h3 itemprop="headline" class="item__header">
             HPC
           </h3>
@@ -109,7 +109,7 @@ Este laboratório tem como objetivo promover e liderar avanços científicos no 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </div>
         <p>
-          <a href="/page/hpc.html">
+          <a href="/pages/research.html">
             Read more
           </a>
         </p>
@@ -122,7 +122,7 @@ Este laboratório tem como objetivo promover e liderar avanços científicos no 
     </div> -->
     <div class="item__content">
       <header>
-        <a href="/page/machine_learning.html">
+        <a href="/pages/research.html">
           <h3 itemprop="headline" class="item__header">
             Intelligent Systems
           </h3>
@@ -133,7 +133,7 @@ Este laboratório tem como objetivo promover e liderar avanços científicos no 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
         </div>
         <p>
-          <a href="/page/hpc.html">
+          <a href="/pages/research.html">
             Read more
           </a>
         </p>
