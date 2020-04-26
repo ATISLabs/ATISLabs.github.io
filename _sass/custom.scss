@@ -32,13 +32,10 @@ label {
     }
 
     label {
-      //position:relative;
-      display:block;
-      width:100%;
-      //min-height:2.25em;
-      //padding:.45em;
-      font-size:1.1em;
-      margin:0;
+      position: inherit;
+      display: block;
+      font-size: 1.1em;
+      margin: 0;
     }
 
     label:after {
@@ -48,7 +45,6 @@ label {
       content:"\2261";
       font-size:1.8em;
       color: #ffffff;
-      margin-top: -5px
     }
 
     input[type=checkbox]:checked ~ ul {
