@@ -46,3 +46,15 @@ header:
       pt-BR   : *PT
       # @end locale config
     url: /pages/team
+
+  - titles:
+      # @start locale config
+      en      : &EN       Press
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      pt      : &PT       Mídia
+      pt-BR   : *PT
+      # @end locale config
+    url: /pages/press
