@@ -2,6 +2,14 @@
 
 /* end custom scss snippet */
 
+#logo-ufrrj {
+  color: white;
+  background-color: white;
+  border-radius: 25px 25px 25px;
+  padding: 3px;
+  margin-right: 10px;
+}
+
 body { -webkit-animation: bugfix infinite 1s; }
 @-webkit-keyframes bugfix { from {padding:0;} to {padding:0;} }
 
