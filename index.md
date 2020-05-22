@@ -21,3 +21,4 @@ Our main research areas are:
 - Recommender Systems
 - High Performance Computing
 - Natural Language Processing
+- Intelligent Systems for Healthcare

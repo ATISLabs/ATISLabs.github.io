@@ -13,3 +13,4 @@ Our main research areas are:
 - High Performance Computing
 - Natural Language Processing
 - Reinforcement Learning
+- Intelligent Systems for Healthcare
