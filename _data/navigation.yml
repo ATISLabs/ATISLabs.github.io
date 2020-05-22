@@ -25,6 +25,18 @@ header:
 
   - titles:
       # @start locale config
+      en      : &EN       Publications
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      pt      : &PT       Publicação
+      pt-BR   : *PT
+      # @end locale config
+    url: /pages/publications
+
+  - titles:
+      # @start locale config
       en      : &EN       Projects
       en-GB   : *EN
       en-US   : *EN
