@@ -102,13 +102,13 @@ key: page-team
     <div class="cell content">
       <div class="card" style="max-width: 14rem">
         <div class="card__image">
-          <a href="http://lattes.cnpq.br/7007150957758256">
+          <a href="http://raulferreira.com.br/">
             <img class="image" src="/assets/images/profile/raul_sena.jpg"/>
           </a>
         </div>
         <div class="card__content">
           <div class="card__header">
-            <a href="http://lattes.cnpq.br/7007150957758256"><div style="font-weight: bold;">Raul Sena</div></a>
+            <a href="http://raulferreira.com.br/"><div style="font-weight: bold;">Raul Sena</div></a>
           </div>
           <div style="font-size: 11.5px;color: gray;">PhD Student at <a href="https://www.laas.fr/public/" target="_blank">LAAS/CNRS</a></div>
         </div>
