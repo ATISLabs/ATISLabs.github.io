@@ -49,12 +49,12 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Team
+      en      : &EN       Teams
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      pt      : &PT       Equipe
+      pt      : &PT       Equipes
       pt-BR   : *PT
       # @end locale config
     url: /pages/team
