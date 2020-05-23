@@ -16,6 +16,7 @@ key: page-team
 
 ## Teams
 
+- [Teams](#teams)
 - [Coordinators](#coordinators)
 - [High Performance Computing](#high-performance-computing)
   - [Researchers](#researchers)
@@ -272,7 +273,7 @@ key: page-team
           <div class="card__header">
             <a href="http://lattes.cnpq.br/0372755551994110" target="_blank"><div style="font-weight: bold;">Rodrigo Tavares</div></a>
           </div>
-          <div style="font-size: small;color: gray;">Professor at DCJUR/UFRRJ</div>
+          <div style="font-size: 12.5px;color: gray;">Professor at DCJUR/UFRRJ</div>
         </div>
       </div>
       <br>
