@@ -1,5 +1,5 @@
 ---
-title: Stream Classification Algorithm Guided by Clustering
+title: Redes Neurais Binarizadas
 tags: youtube hpc reuniao
 author: filipe_braida
 show_author_profile: true
