@@ -1,15 +1,5 @@
 ---
 layout: article
-title: Advanced Technology Laboratory in Intelligent Systems
-mode: immersive
-header:
-  theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#123'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
 ---
 
 # Advanced Technology Laboratory in Intelligent Systems
@@ -20,7 +10,26 @@ This laboratory aims to promote and lead scientific advances in the field of Art
 
 ## Recent News
 
-topics
+{% for post in site.posts offset: 0 limit:1 %}
+  <article>
+    <li>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+    <div class="item__image">
+    <img class="image" src="{{ post.cover | prepend: site.baseurl }}">
+    </div>
+  </article>
+{% endfor %}
+
+{% for post in site.posts offset: 1 limit:5 %}
+  <article>
+    <li>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  </article>
+{% endfor %}
 
 ## Research Groups
 
