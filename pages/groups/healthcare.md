@@ -7,13 +7,18 @@ key: page-research
 
 # Intelligent Systems for Healthcare
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This research group aims to develop, from an interdisciplinary group, scientific research and computational solutions for the biomedical area. Among these solutions, we can mention: support systems for decision making; medical data analysis systems.
 
 ## Featured Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Predicting manifestation of Covid-19**
+
+During the pandemic period, we developed XRayCovid-19, which consists of an online tool capable of predicting Covid-19 from the submission of a patient's chest X-ray, as well as the insertion of clinical and demographic data. We gained notoriety in the media for the rapid development and creativity of the solution.
 
 ## Team
+
+We are a group with interdisciplinary knowledge composed of doctors, biologists and computer scientists. Our aim is to constitute research with researchers from different institutions in the biomedical area and generate innovative solutions.
+
 
 ### Researchers
 
